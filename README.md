@@ -74,5 +74,7 @@ This is a basic example. Feel free to extend it by:
 *   Experimenting with different chunk sizes and overlaps.
 *   Trying different embedding models or vectorstores.
 *   Implementing more advanced RAG techniques.
-cpyright @Codekster
+
+
+copyright @Codekster
 
